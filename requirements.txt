@@ -1,0 +1,5 @@
+Flask
+pandas
+matplotlib
+seaborn 
+# Add other required libraries as needed
